@@ -1,0 +1,11 @@
+{
+    "workbench.settings.editor": "json",
+    "telemetry.telemetryLevel": "off",
+    "window.zoomLevel": 1,
+    "editor.fontFamily": "Source Code Pro",
+    "workbench.colorTheme": "One Dark Pro Darker",
+    "editor.formatOnSave": true,
+    "python.formatting.provider": "black",
+    "python.linting.flake8Enabled": true,
+    "python.defaultInterpreterPath": "/home/amoghsk/.local/share/pyenv/versions/3.11.1/bin/python"
+}
