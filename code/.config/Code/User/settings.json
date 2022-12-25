@@ -3,7 +3,7 @@
     "telemetry.telemetryLevel": "off",
     "window.zoomLevel": 1,
     "editor.fontFamily": "Source Code Pro",
-    "workbench.colorTheme": "One Dark Pro Darker",
+    "workbench.colorTheme": "Monokai",
     "editor.formatOnSave": true,
     "python.formatting.provider": "black",
     "python.linting.flake8Enabled": true,
