@@ -76,7 +76,7 @@ setopt PROMPT_SUBST
 zstyle ":vcs_info:git:*" formats " %b"
 
 precmd() { echo }
-PROMPT="%B%F{cyan}%(4~|.../%3~|%d)%F{red}${vcs_info_msg_0_} %F{magenta}%(1j.↓%j .)%b%F{yellow}%(!.#.❯)%f "
+PROMPT='%B%F{cyan}%(4~|.../%3~|%d)%F{red}${vcs_info_msg_0_} %F{blue}%(1j.↓%j .)%b%F{yellow}%(!.#.❯)%f '
 
 
 export EDITOR="nvim"
