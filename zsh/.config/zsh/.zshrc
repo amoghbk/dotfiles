@@ -102,9 +102,6 @@ path=("$PYENV_ROOT/bin" $path)
 eval "$(pyenv init -)"
 
 
-source "$HOME/.config/fzf/fzf.zsh"
-
-
 alias ls="exa"
 
 alias fnd="fd --hidden --no-ignore --exclude /mnt --exclude \*.svg --exclude \*.png --exclude \*.jpg"
