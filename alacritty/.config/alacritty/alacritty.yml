@@ -1,0 +1,15 @@
+window:
+  padding:
+    x: 5
+    y: 5
+
+font:
+  normal:
+    family: SauceCodePro Nerd Font Mono
+  bold:
+    family: SauceCodePro Nerd Font Mono
+  italic:
+    family: SauceCodePro Nerd Font Mono
+  bold_italic:
+    family: SauceCodePro Nerd Font Mono
+  size: 13.0
