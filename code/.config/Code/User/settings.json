@@ -3,6 +3,7 @@
     "telemetry.telemetryLevel": "off",
     "window.zoomLevel": 1,
     "editor.fontFamily": "Source Code Pro",
+    "editor.minimap.enabled": false,
     "workbench.colorTheme": "Monokai",
     "editor.formatOnSave": true,
     "python.formatting.provider": "black",
